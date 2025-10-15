@@ -129,10 +129,17 @@
         </center>
 
         <ul>
-            {% for member in site.data.grimoires.grimoires %}
+            {% for g in site.data.grimoires.grimoires %}
             <li>
-                <p class="notice-text" face="arial" size="1">{{ member.name }}</p>
-                <p class="notice-text" face="arial" size="1">{{ member.text }}</p>
+                <p class="notice-text" face="arial" size="1">{{ g.name }}</p>
+                <p class="notice-text" face="arial" size="1">{{ g.text }}</p>
+            </li>
+            {% endfor %}
+
+            {% for g in site.data.grimoires.grimoires_yml %}
+            <li>
+                <p class="notice-text" face="arial" size="1">{{ g.name }}</p>
+                <p class="notice-text" face="arial" size="1">{{ g.text }}</p>
             </li>
             {% endfor %}
         </ul>
