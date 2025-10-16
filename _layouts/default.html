@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body background="img\stone_background_2.png" class="tiling-background" >
+
+
+<header>
+    {% include header.html %}
+</header>
+
+<div class="container">
+    <aside class="sidebar">
+        {% include sidebar.html %}
+    </aside>
+
+    <main class="content">
+        {{ content }}
+    </main>
+</div>
+
+
+</body>
+</html>

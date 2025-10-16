@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'MGR';
+    src: url('../fonts/P22MorrisGoldenRegular.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'Tyndale';
+    src: url('../fonts/P22 Tyndale Regular.ttf') format('truetype'),
+}
+
+.title-background {
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+.tiling-background {
+    background-size: 500px;
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    background-position: center;
+
+    background-attachment: fixed;
+}
+
+
+/* Sidebar */
+.sidebar {
+    width: 15%;
+    min-width: 240px;
+    padding: 2rem 1.5rem;
+    overflow-y: auto;
+    position: fixed;
+    left: 5%;
+    top: 15%;
+    border-radius: 2px;
+    background: rgba(0, 0, 0, 0.5) url("../img/metal.png");
+    background-size: 900px;
+}
+
+/* Sidebar sections */
+.sidebar-section {
+    margin-bottom: 2rem;
+}
+
+.sidebar-title {
+    font-family: "Tyndale";
+    /*font-size: 1.4rem;*/
+    color: #ede3c8;
+    margin-bottom: 0.5rem;
+    font-weight: normal;
+    padding-bottom: 0.25rem;
+    margin-top: 0;
+}
+
+/* Sidebar links */
+.sidebar ul {
+    font-weight: normal;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 0.3rem 0;
+    font-family: 'MGR';
+}
+
+.sidebar ul li a {
+    color: #74c9d2;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+.sidebar ul li a:hover {
+    color: #a9f3ff;
+    text-shadow: 0 0 4px #6ee7ff;
+}
+
+main.content {
+    margin-left: 20%;   /* same width as .sidebar */
+    padding: 2rem 10rem; /* adjust padding as needed */
+    width: 80%;         /* remaining width */
+    min-height: 100vh;
+    color: #e0e0e0;
+    box-sizing: border-box;
+
+}

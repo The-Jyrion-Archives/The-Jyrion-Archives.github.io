@@ -1,0 +1,20 @@
+---
+---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Guilds</title>
+</head>
+<body>
+
+
+
+<ul>
+    {% for g in site.data.guilds.guilds %}
+    <p class="notice-text" face="arial" size="1">{{ g }}</p>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
