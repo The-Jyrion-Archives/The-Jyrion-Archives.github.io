@@ -103,3 +103,16 @@ main.content {
     font-weight: normal;
     text-shadow: #151413 0 0 5px;
 }
+
+.content aside {
+    width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #ffffff;
+    font-style: italic;
+}
+
+.content aside > p {
+    margin: 0.5rem;
+}
