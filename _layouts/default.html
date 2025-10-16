@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
-<body background="img\stone_background_2.png" class="tiling-background" >
+<body background="{{ 'img\stone_background_2.png' | relative_url }}" class="tiling-background" >
 
 
 <header>

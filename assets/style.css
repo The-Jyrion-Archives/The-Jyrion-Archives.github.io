@@ -1,11 +1,16 @@
 @font-face {
     font-family: 'MGR';
-    src: url('../fonts/P22MorrisGoldenRegular.woff') format('woff'),
+    src: url('../fonts/P22MorrisGoldenRegular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Tyndale';
-    src: url('../fonts/P22 Tyndale Regular.ttf') format('truetype'),
+    src: url('../fonts/P22 Tyndale Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'E-Garamond';
+    src: url('../fonts/Elegant Garamond Regular.otf') format('otf');
 }
 
 .title-background {
@@ -13,6 +18,7 @@
     margin: auto;
     width: 30%;
 }
+
 .tiling-background {
     background-size: 500px;
     /*background-size: cover;*/
@@ -26,7 +32,6 @@
 /* Sidebar */
 .sidebar {
     width: 15%;
-    min-width: 240px;
     padding: 2rem 1.5rem;
     overflow-y: auto;
     position: fixed;
@@ -35,6 +40,7 @@
     border-radius: 2px;
     background: rgba(0, 0, 0, 0.5) url("../img/metal.png");
     background-size: 900px;
+    text-align: center;
 }
 
 /* Sidebar sections */
@@ -78,11 +84,22 @@
 }
 
 main.content {
-    margin-left: 20%;   /* same width as .sidebar */
-    padding: 2rem 10rem; /* adjust padding as needed */
-    width: 80%;         /* remaining width */
+    margin-left: 20%; /* same width as .sidebar */
+    padding: 2rem 12%; /* adjust padding as needed */
+    width: 80%; /* remaining width */
     min-height: 100vh;
     color: #e0e0e0;
     box-sizing: border-box;
+    font-family: "EB Garamond";
+}
 
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    font-family: "Tyndale";
+    font-weight: normal;
+    text-shadow: #151413 0 0 5px;
 }
