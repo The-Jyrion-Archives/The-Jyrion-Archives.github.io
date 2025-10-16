@@ -16,20 +16,16 @@
 .title-background {
     display: block;
     margin: auto;
-    width: 30%;
+    width: 40%;
 }
 
 .tiling-background {
     background-size: 500px;
-    /*background-size: cover;*/
-    /*background-repeat: no-repeat;*/
     background-position: center;
-
     background-attachment: fixed;
 }
 
 
-/* Sidebar */
 .sidebar {
     width: 15%;
     padding: 2rem 1.5rem;
@@ -37,20 +33,19 @@
     position: fixed;
     left: 5%;
     top: 15%;
-    border-radius: 2px;
+    border-radius: 3px;
     background: rgba(0, 0, 0, 0.5) url("../img/metal.png");
     background-size: 900px;
+    box-shadow: #0e0e0e 1px 1px 5px;
     text-align: center;
 }
 
-/* Sidebar sections */
 .sidebar-section {
     margin-bottom: 2rem;
 }
 
 .sidebar-title {
     font-family: "Tyndale";
-    /*font-size: 1.4rem;*/
     color: #ede3c8;
     margin-bottom: 0.5rem;
     font-weight: normal;
@@ -58,7 +53,6 @@
     margin-top: 0;
 }
 
-/* Sidebar links */
 .sidebar ul {
     font-weight: normal;
     list-style: none;
@@ -84,9 +78,9 @@
 }
 
 main.content {
-    margin-left: 20%; /* same width as .sidebar */
-    padding: 2rem 12%; /* adjust padding as needed */
-    width: 80%; /* remaining width */
+    margin-left: 20%;
+    padding: 2rem 12%;
+    width: 80%;
     min-height: 100vh;
     color: #e0e0e0;
     box-sizing: border-box;
