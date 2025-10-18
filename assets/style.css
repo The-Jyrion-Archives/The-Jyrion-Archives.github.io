@@ -136,6 +136,10 @@ main.content {
     font-size: 1.2rem;
 }
 
+.content ul > li {
+    font-size: 1.1rem;
+}
+
 .column-list > ul {
     -webkit-column-count: 3;
     -moz-column-count: 3;

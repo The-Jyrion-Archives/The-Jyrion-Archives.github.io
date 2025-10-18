@@ -11,6 +11,8 @@ title: Estrutura Social
 
 A sociedade em (nome) é dividida da seguinte forma:
 
+> *Substituir por ilustração em pirâmide?*
+
 1. Ordem dos Magos
 2. Conselho Civil
 3. A Guarda
