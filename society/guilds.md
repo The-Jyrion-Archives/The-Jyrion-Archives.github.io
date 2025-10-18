@@ -3,8 +3,14 @@ layout: default
 title: Guildas
 ---
 
-# Associações
+# Guildas
+
 ---
+
+## Associações
+
+As guildas são organizadas em associações para facilitar a cooperação entre profissões similares.  
+
 ## Associação dos Artesãos
 
 <div class="column-list" markdown="1">
@@ -107,18 +113,18 @@ title: Guildas
 * Guilda dos Magos Independentes
 * Guilda dos Banqueiros
 * Guilda dos Estalajadeiros
+* Guilda das Meretrizes
 * Guilda dos Ladrões
 
 </div>
 
-# Guildas
+## Lista de Guildas
 
 {% for g in site.data.guilds.guilds %}
 ---
 
-
-
-## {{ g.name }}
-<aside>Localização: Distrito X</aside>
+### {{ g.name }}
+<aside>Localização: Distrito X<br/>Categoria: {{ g.categoria }}</aside>
 {{ g.description }}
+<br/><br/>
 {% endfor %}

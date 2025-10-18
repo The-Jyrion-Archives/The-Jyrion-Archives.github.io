@@ -84,6 +84,7 @@ main.content {
     background-color: rgba(0, 0, 0, 0.5);
     box-shadow: #000000 0 0 15px;
     border-radius: 15px;
+    min-width: 600px;
     width: 40%;
     min-height: 100vh;
     color: #e0e0e0;
@@ -106,6 +107,17 @@ main.content {
     text-shadow: #151413 0 0 5px;
 }
 
+.content h1 {
+    font-size: 2.4rem;
+}
+.content h2 {
+    font-size: 1.9rem;
+}
+.content h3 {
+    font-size: 1.5rem;
+}
+
+
 .content aside {
     width: 40%;
     padding-left: 0.5rem;
@@ -113,11 +125,15 @@ main.content {
     float: right;
     box-shadow: inset 5px 0 5px -5px #ffffff;
     font-style: italic;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 .content aside > p {
     margin: 0.5rem;
+}
+
+.content ol > li {
+    font-size: 1.2rem;
 }
 
 .column-list > ul {
