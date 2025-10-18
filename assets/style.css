@@ -27,7 +27,7 @@
 
 
 .sidebar {
-    width: 15%;
+    width: 12%;
     padding: 2rem 1.5rem;
     overflow-y: auto;
     position: fixed;
@@ -36,7 +36,7 @@
     border-radius: 3px;
     background: rgba(0, 0, 0, 0.5) url("../img/metal.png");
     background-size: 900px;
-    box-shadow: #0e0e0e 1px 1px 5px;
+    box-shadow: #0e0e0e 0px 0px 15px;
     text-align: center;
 }
 
@@ -79,9 +79,12 @@
 }
 
 main.content {
-    margin-left: 20%;
-    padding: 2rem 12%;
-    width: 80%;
+    margin-left: 30%;
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: #000000 0 0 15px;
+    border-radius: 15px;
+    width: 40%;
     min-height: 100vh;
     color: #e0e0e0;
     box-sizing: border-box;

@@ -3,12 +3,8 @@ layout: default
 title: Guildas
 ---
 
-# Guildas
-
----
-
 # Associações
-
+---
 ## Associação dos Artesãos
 
 <div class="column-list" markdown="1">
@@ -40,10 +36,11 @@ title: Guildas
 * Guilda dos Sapateiros
 * Guilda dos Esfoladores
 * Guilda dos Cordoeiros
+* Guilda dos Correeiros
 
 </div>
 
-## Associação de Metais e Pedras 
+## Associação de Metais & Pedras
 
 <div class="column-list" markdown="1">
 
@@ -61,6 +58,8 @@ title: Guildas
 * Guilda dos Ferreiros de Cavalo
 * Guilda dos Carroceiros
 * Guilda dos Fabricantes de Telhas
+* Guilda dos Candeeiros
+* Guilda dos Construtores Navais
 
 </div>
 
@@ -75,7 +74,6 @@ title: Guildas
 * Guilda dos Agricultores
 * Guilda dos Pescadores
 * Guilda dos Vinicultores
-* Guilda dos Estalajadeiros
 * Guilda dos Herbalistas
 * Guilda dos Alquimistas
 * Guilda dos Perfumistas
@@ -83,23 +81,37 @@ title: Guildas
 
 </div>
 
-## Guildas Sem Associação
+## Associação das Armas
 
 <div class="column-list" markdown="1">
 
-* Guilda dos Construtores Navais
-* Guilda dos Ladrões
-* Guilda dos Cartógrafos
-* Guilda dos Mercadores
-* Guilda dos Cirurgiões-Barbeiros
-* Guilda dos Arqueiros
-* Guilda dos Correeiros
-* Guilda dos Banqueiros
-* Guilda dos Jirinadores
 * Guilda dos Mercenários
-* Guilda dos Magos Independentes
+* Guilda dos Arqueiros
+* Guilda dos Caçadores
+* Guilda dos Domadores
+* Guilda dos Escudeiros
+* Guilda dos Cavaleiros
+* Guilda dos Patrulheiros
+* Guilda dos Gladiadores
+* Guilda dos Duelistas
+* Guilda dos Caçadores de Recompensa
 
 </div>
+
+## Guildas Independentes
+
+<div class="column-list" markdown="1">
+
+* Guilda dos Jirinadores
+* Guilda dos Mercadores
+* Guilda dos Magos Independentes
+* Guilda dos Banqueiros
+* Guilda dos Estalajadeiros
+* Guilda dos Ladrões
+
+</div>
+
+# Guildas
 
 {% for g in site.data.guilds.guilds %}
 ---
