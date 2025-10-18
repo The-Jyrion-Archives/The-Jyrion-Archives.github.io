@@ -118,6 +118,13 @@ As guildas são organizadas em associações para facilitar a cooperação entre
 
 </div>
 
+
+### Ideias
+
+* Rat-catchers
+* Cozinheiros
+* Sacerdotes/Padres
+
 ## Lista de Guildas
 
 {% for g in site.data.guilds.guilds %}
