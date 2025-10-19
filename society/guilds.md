@@ -121,6 +121,17 @@ As guildas são organizadas em associações para facilitar a cooperação entre
 
 ### Ideias
 
+[DND Guilds](https://forgottenrealms.fandom.com/wiki/Category:Guilds)
+
+[Guilds of Waterdeep](https://forgottenrealms.fandom.com/wiki/Guilds_of_Waterdeep)
+
+[Guilds of Ankh Morpork](https://discworld.fandom.com/wiki/Guilds_of_Ankh-Morpork)
+
+[Guilds of Sanctuary](https://thieves-world.fandom.com/wiki/Militias,_Guilds,_and_Gangs)
+
+Guildhalls
+
+
 * Rat-catchers
 * Cozinheiros
 * Sacerdotes/Padres

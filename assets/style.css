@@ -73,10 +73,7 @@
     transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
-.sidebar ul li a:hover {
-    color: #a9f3ff;
-    text-shadow: 0 0 4px #6ee7ff;
-}
+
 
 main.content {
     margin-left: 30%;
@@ -130,6 +127,18 @@ main.content {
 
 .content aside > p {
     margin: 0.5rem;
+}
+
+.content a {
+    color: #74c9d2;
+    text-decoration: underline;
+    font-size: 1.3rem;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+.content a:hover {
+    color: #a9f3ff;
+    text-shadow: 0 0 4px #6ee7ff;
 }
 
 .content ol > li {
