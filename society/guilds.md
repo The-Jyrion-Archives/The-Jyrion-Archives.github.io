@@ -7,117 +7,185 @@ title: Guildas
 
 ---
 
-## Associações
-
-As guildas são organizadas em associações para facilitar a cooperação entre profissões similares.  
-
-## Associação dos Artesãos
-
-<div class="column-list" markdown="1">
-
-* Guilda dos Marceneiros
-* Guilda dos Carpinteiros
-* Guilda dos Escribas
-* Guilda dos Escultores
-* Guilda dos Encadernadores
-* Guilda dos Músicos
-* Guilda dos Pintores
-* Guilda dos Cartógrafos
-* Guilda dos Bordadores
-* Guilda dos Cesteiros
-* Guilda dos Agulheiros
-* Guilda dos Fabricantes de Bolsas
-
-</div>
-
-## Associação dos Fabricantes
-
-<div class="column-list" markdown="1">
-
-* Guilda dos Alfaiates
-* Guilda dos Coureiros
-* Guilda dos Tecelões
-* Guilda dos Tanoeiros
-* Guilda dos Tingidores
-* Guilda dos Sapateiros
-* Guilda dos Esfoladores
-* Guilda dos Cordoeiros
-* Guilda dos Correeiros
-
-</div>
-
-## Associação de Metais & Pedras
-
-<div class="column-list" markdown="1">
-
-* Guilda dos Ferreiros
-* Guilda dos Joalheiros
-* Guilda dos Pedreiros
-* Guilda dos Vidreiros
-* Guilda dos Mineiros
-* Guilda dos Relojoeiros
-* Guilda dos Ourives
-* Guilda dos Encanadores
-* Guilda dos Velamistas
-* Guilda dos Armeiros
-* Guilda dos Flecheiros
-* Guilda dos Ferreiros de Cavalo
-* Guilda dos Carroceiros
-* Guilda dos Fabricantes de Telhas
-* Guilda dos Candeeiros
-* Guilda dos Construtores Navais
-
-</div>
-
-## Associação dos Produtores
-
-<div class="column-list" markdown="1">
-
-* Guilda dos Padeiros
-* Guilda dos Açougueiros
-* Guilda dos Ceverjeiros
-* Guilda dos Boticários
-* Guilda dos Agricultores
-* Guilda dos Pescadores
-* Guilda dos Vinicultores
-* Guilda dos Herbalistas
-* Guilda dos Alquimistas
-* Guilda dos Perfumistas
-* Guilda dos Peixeiros
-
-</div>
-
-## Associação das Armas
-
-<div class="column-list" markdown="1">
-
-* Guilda dos Mercenários
-* Guilda dos Arqueiros
-* Guilda dos Caçadores
-* Guilda dos Domadores
-* Guilda dos Escudeiros
-* Guilda dos Cavaleiros
-* Guilda dos Patrulheiros
-* Guilda dos Gladiadores
-* Guilda dos Duelistas
-* Guilda dos Caçadores de Recompensa
-
-</div>
-
-## Guildas Independentes
+## Guildas Poderosas
 
 <div class="column-list" markdown="1">
 
 * Guilda dos Jirinadores
+* Guilda dos Magos
 * Guilda dos Mercadores
-* Guilda dos Magos Independentes
-* Guilda dos Banqueiros
-* Guilda dos Estalajadeiros
-* Guilda das Meretrizes
+* Guilda dos Mineradores
+* Guilda dos Patrulheiros
+* Guilda dos Alquimistas
+* Guilda das Expedições
 * Guilda dos Ladrões
+* Guilda dos Padres / Sacerdotes (dividir em cada deus)
+* Guilda dos Assassinos
+* Guilda dos Cervejeiros
+* Guilda dos Sóis
 
 </div>
 
+### Guilda dos Trabalhadores de Madeira
+
+* Marceneiros
+* Carpinteiros
+* Tanoeiros
+* Carroceiros
+* Flecheiros
+
+### Guilda dos Tecidos
+
+* Alfaiates
+* Tecelões
+* Tingidores
+* Cordoeiros
+* Bordadores
+* Cesteiros
+
+### Guilda dos Couros
+
+* Coureiros
+* Sapateiros
+* Esfoladores
+* Correeiros
+* Fabricantes de Bolsas
+
+### Guilda dos Mineradores
+
+* Mineradores
+* Vidreiros
+
+### Guilda dos Meteis & Pedras
+
+* Ferreiros
+* Joalheiros
+* Relojoeiros
+* Ourives
+* Ferreiros de Cavalo
+* Fabricantes de Telhas
+* Candeeiros
+
+### Guilda dos Padeiros
+
+* Padeiros
+
+### Guilda dos Produtores de Carne
+
+* Açougueiros
+* Linguiceiros
+
+### Guilda dos Cervejeiros
+
+* Cervejeiros
+
+### Guilda dos Alquimistas
+
+* Alquimistas
+* Boticário
+* Perfumistas
+* Herbalistas
+
+### Guilda os Produtores de Queijo
+
+* Queijeiros
+
+### Guilda dos Agricultores
+
+* Agricultores
+* Fazendeiros
+
+### Guilda dos Pescadores
+
+* Pescadores
+* Peixeiros
+
+### Guilda das Expedições
+
+* Gladiadores
+* Expedicionários
+* Domadores
+* Caçadores
+
+### Guilda dos Duelistas
+
+* Esgrima
+* Lutadores mão-a-mão
+
+### Guilda dos Caçadores de Recompensa
+
+* Caçadores de Recompensa
+
+### Guilda dos Patrulheiros
+
+* Patrulheiros
+* Pedreiros / Obras Públicas
+* Templários
+* Encanadores
+* Mercenários
+
+### Guilda dos Cavaleiros
+
+* Cavaleiros
+* Escudeiros
+
+### Guilda dos Jirinadores
+
+* Escribas Historiadores
+* Arqueólogos
+
+### Guilda dos Mercadores
+
+* Cartógrafos
+* Navegadores
+* Agiotas
+* Construtores de Estradas
+* Transporte Carruagem (Coche)
+* Construtores Navais
+
+### Guilda dos Magos Independentes
+
+* Magos Independentes
+
+### Guilda dos Estalajadeiros
+
+* Estalajadeiros
+* Cozinheiros
+* Funcionários
+
+### Guilda dos Ladrões
+
+* Ladrões
+
+### Guilda das Artes
+
+* Escultores
+* Músicos
+* Pintores
+
+### Guilda dos Escribas
+
+* Encadernadores
+* Escribas
+* Agulheiros
+
+### Guilda das Meretrizes (Cabaré)
+
+* Prostitutas
+* Cafetões
+
+### Guilda dos Padres e Sacerdotes
+
+* Padres
+* Sacerdotes
+
+### Guilda dos Assassinos
+
+* Assassinos
+
+### Guilda dos Sóis
+
+* Devotos
 
 ### Ideias
 
@@ -131,18 +199,4 @@ As guildas são organizadas em associações para facilitar a cooperação entre
 
 Guildhalls
 
-
 * Rat-catchers
-* Cozinheiros
-* Sacerdotes/Padres
-
-## Lista de Guildas
-
-{% for g in site.data.guilds.guilds %}
----
-
-### {{ g.name }}
-<aside>Localização: Distrito X<br/>Categoria: {{ g.categoria }}</aside>
-{{ g.description }}
-<br/><br/>
-{% endfor %}
