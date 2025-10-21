@@ -132,7 +132,6 @@ main.content {
 .content a {
     color: #74c9d2;
     text-decoration: underline;
-    font-size: 1.3rem;
     transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
@@ -150,7 +149,7 @@ main.content {
 }
 
 .column-list > ul {
-    -webkit-column-count: 3;
-    -moz-column-count: 3;
-    column-count: 3;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
 }

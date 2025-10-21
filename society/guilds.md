@@ -26,6 +26,44 @@ title: Guildas
 
 </div>
 
+
+## Lista de Guildas
+
+<div class="column-list" markdown="1">
+
+* [Guilda dos Trabalhadores de Madeira](#guilda-dos-trabalhadores-de-madeira)
+* Guilda dos Tecidos
+* Guilda dos Couros
+* Guilda dos Mineradores
+* Guilda dos Meteis & Pedras
+* Guilda dos Padeiros
+* Guilda dos Produtores de Carne
+* Guilda dos Cervejeiros
+* Guilda dos Alquimistas
+* Guilda dos Produtores de Queijo
+* Guilda dos Agricultores
+* Guilda dos Pescadores
+* Guilda das Expedições
+* Guilda dos Duelistas
+* Guilda dos Caçadores de Recompensa
+* Guilda dos Patrulheiros
+* Guilda dos Cavaleiros
+* Guilda dos Jirinadores
+* Guilda dos Mercadores
+* Guilda dos Magos Independentes
+* Guilda dos Estalajadeiros
+* Guilda dos Ladrões
+* Guilda das Artes
+* Guilda dos Escribas
+* Guilda das Meretrizes (Cabaré)
+* Guilda dos Padres e Sacerdotes
+* Guilda dos Assassinos
+* Guilda dos Sóis
+
+</div>
+
+---
+
 ### Guilda dos Trabalhadores de Madeira
 
 * Marceneiros
@@ -86,7 +124,7 @@ title: Guildas
 * Perfumistas
 * Herbalistas
 
-### Guilda os Produtores de Queijo
+### Guilda dos Produtores de Queijo
 
 * Queijeiros
 
